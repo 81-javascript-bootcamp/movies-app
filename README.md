@@ -1,4 +1,4 @@
-###Odev
+### Odev
 
 1. Year ve genre secenekleri mevcut datanin icindeki alanlardan olusmali ve yanlarina parantes icinde sayilari yazilmali.
 
