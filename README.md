@@ -1,7 +1,7 @@
 ### Odev
 
 1. Year ve genre secenekleri mevcut datanin icindeki alanlardan olusmali ve yanlarina parantes icinde sayilari yazilmali.
-
+- is-1 tamamlandi
 Ornegin data icerisinde 2 adet Action 3 adet Drama filmi var ise secenekler.
 
 - Action(2)
